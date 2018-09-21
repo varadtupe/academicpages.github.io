@@ -11,6 +11,9 @@ redirect_from:
 
 Education
 ======
+Master of Engineering Sciences (Data Science), University at Buffalo, The State University of New York
+Relevant coursework: Machine Learning, Data Intensive Computing, Database System, Statistical Data Mining
+
 * B.S. in Github, Github University, 2012
 * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected)
@@ -29,31 +32,11 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Programming Languages: Python, R, JavaScript, Scala, Shell Script, PL/SQL, Java, PHP, CSS, C++
+Packages: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Folium, Plotly, Tensorflow, Keras
+Databases: Oracle, PostgreSQL, MySQL, MS-SQL
+Operating Systems: Ubuntu, RHEL, Windows OS, Mac OS
+Tools: Tableau, Docker, Apache Airflow, SVN, GitHub, GitLab, SQL Developer, Eclipse, MS Excel
+Big Data: Hadoop, MapReduce, Hive, Pig, Spark
+ML: Regression, Decision Trees, Random Forest, SVM, PCA, Neural Networks, NLP, Dimension Reduction, Deep Learning
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
